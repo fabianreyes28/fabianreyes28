@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Fabian </h1></summary>
   </ul>
 </div>
 
@@ -16,12 +16,12 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :school: I am a `Telecommunication Engineer`.
+- :trophy: MY EXPERIENCE -> `SDET` Software Development Engineer in Test.
+- :technologist: **Currently working as a freelancer** `Backend Process Automator` **&** `APIs Tester`
+- :boom: You can visit [MY REPO](https://eliochiu.github.io) for some API testing knowledge
+- :email: Feel free to **reach me out** fabianreyes28@gmail.com
+- :nerd_face: Always Remenber `"Albert Einstein. "Quality is the best business plan.""`
 
 <br>
 
