@@ -17,9 +17,9 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Telecommunication Engineer`.
-- :trophy: MY EXPERIENCE -> `SDET` Software Development Engineer in Test.
+- :trophy: MY EXPERIENCE -> `SDET` Software Development Engineer in Test. Automation Testing Frontend, Backend and Batch
 - :technologist: **Currently working as a freelancer** `Backend Process Automator` **&** `APIs Tester`
-- :boom: You can visit [MY REPO](https://eliochiu.github.io) for some API testing knowledge
+- :boom: You can visit [MY REPO](https://github.com/fabianreyes28/api-testing-bases.git) for some API testing knowledge
 - :email: Feel free to **reach me out** fabianreyes28@gmail.com
 - :nerd_face: Always Remenber `"Albert Einstein. "Quality is the best business plan.""`
 
