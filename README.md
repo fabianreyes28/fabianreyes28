@@ -34,7 +34,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Framework Testing
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
-[![Serenity BDD](https://i0.wp.com/automatenow.io/wp-content/uploads/2023/12/serenity-bdd-logo.webp)](#)
+[![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-43B02A?logo=java&logoColor=white)](https://serenity-bdd.github.io/)
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
