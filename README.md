@@ -35,6 +35,8 @@
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-43B02A?logo=java&logoColor=white)](https://serenity-bdd.github.io/)
+[![Rest Assured](https://img.shields.io/badge/Rest%20Assured-43B02A?logo=java&logoColor=white)](https://rest-assured.io/)
+[![Karate Framework](https://img.shields.io/badge/Karate%20Framework-F58220?logo=java&logoColor=white)](https://karatelabs.github.io/karate/)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
